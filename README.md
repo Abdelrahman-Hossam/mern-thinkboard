@@ -10,5 +10,5 @@ Features
 - RESTful API built using Express and Node.js
 
 How to run
-Backend: npm start
-Frontend: npm run dev
+- Backend: npm start
+- Frontend: npm run dev
